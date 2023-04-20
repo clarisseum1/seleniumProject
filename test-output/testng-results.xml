@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regression " duration-ms="8201" started-at="2023-04-20T10:07:29 CDT" finished-at="2023-04-20T10:07:37 CDT">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="8201" started-at="2023-04-20T10:07:29 CDT" finished-at="2023-04-20T10:07:37 CDT">
+      <class name="test.AddCustomerTest">
+        <test-method status="PASS" signature="validUserBeAbleToCreateCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:test.AddCustomerTest@7a9273a8]" name="validUserBeAbleToCreateCustomer" duration-ms="8156" started-at="2023-04-20T10:07:29 CDT" finished-at="2023-04-20T10:07:37 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dashboard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Add Contact]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[clarisse]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Techfios]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[sseum1@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[9865457897]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[branwell]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[austin]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[tx]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[787]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Togo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserBeAbleToCreateCustomer -->
+      </class> <!-- test.AddCustomerTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- regression  -->
+</testng-results>
